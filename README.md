@@ -73,9 +73,3 @@ spawns the local companion.
    in-game Call Follower whistle.
 6. Test walking, running, corners, stairs, teleports, world hopping and each
    follow-distance setting.
-
-## Attribution
-
-This project began as a permitted derivative of Mrnice98's Companion Pet Plugin
-and retains its BSD 2-Clause licence and copyright notice. Movement and pathing
-have been modified for Rapid Companions.
